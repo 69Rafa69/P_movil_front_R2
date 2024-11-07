@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759483512005",
+    "project_id": "inlima-mobile",
+    "storage_bucket": "inlima-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759483512005:android:73fede76fb0e6e8df8ecac",
+        "android_client_info": {
+          "package_name": "com.example.inlima_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnwkZCYqetWOGl2FVsvXtERacnpQsUHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
